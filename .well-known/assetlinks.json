@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kondrasevartemij172_beep.twa",
+        "sha256_cert_fingerprints": ["FA:2E:98:EA:EB:B3:B4:42:03:01:BB:46:1B:01:13:F0:D9:8F:0E:2E:B0:F1:5D:8E:E3:99:D9:5B:AD:F8:75:DA"]
+      }
+    }]
